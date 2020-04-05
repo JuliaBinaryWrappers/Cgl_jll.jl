@@ -1,214 +1,214 @@
 [[Cgl]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4cfe3142ac40c62f4d8fe31134f7a0b165e3bf21"
+git-tree-sha1 = "edb906c9796a3f4e3b2b8da94d11bb5ad4ccdaf0"
 libc = "musl"
 os = "linux"
 
     [[Cgl.download]]
-    sha256 = "47b3b9139ac0fd535920e5d001e153e4aebd79882fdce3baf002328cd4584a8b"
-    url = "https://github.com/JuliaBinaryWrappers/Cgl_jll.jl/releases/download/Cgl-v0.59.10+1/Cgl.v0.59.10.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "dca1946cb5d8ff5e0e5c8e613570ca10f90e5964cd8be7d1781af624616e7d6b"
+    url = "https://github.com/JuliaBinaryWrappers/Cgl_jll.jl/releases/download/Cgl-v0.60.3+0/Cgl.v0.60.3.aarch64-linux-musl-cxx03.tar.gz"
 [[Cgl]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2d77c689c4b4ee253ae9da342a9b9a0eeb06f380"
+git-tree-sha1 = "bb17fc5d22ad467f8ca65a911770ee20e24d4470"
 libc = "musl"
 os = "linux"
 
     [[Cgl.download]]
-    sha256 = "9185b64aa266674b7c073b91c1af429495f2996d37d80e807a3094bc5f3c9da2"
-    url = "https://github.com/JuliaBinaryWrappers/Cgl_jll.jl/releases/download/Cgl-v0.59.10+1/Cgl.v0.59.10.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "93129f7c3bd4a15c5821121343c426f7712c53cbca51720764e552b0dd941e3b"
+    url = "https://github.com/JuliaBinaryWrappers/Cgl_jll.jl/releases/download/Cgl-v0.60.3+0/Cgl.v0.60.3.aarch64-linux-musl-cxx11.tar.gz"
 [[Cgl]]
 arch = "armv7l"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e13a696539e93a64115c8c5c984f119f669731ee"
+git-tree-sha1 = "247170a0a0160145d054205d9691ec674ee4cc02"
 libc = "musl"
 os = "linux"
 
     [[Cgl.download]]
-    sha256 = "83f633bfdcc085155dfe8bbe90272321738e023bed22d10be9d8e9594573c7b2"
-    url = "https://github.com/JuliaBinaryWrappers/Cgl_jll.jl/releases/download/Cgl-v0.59.10+1/Cgl.v0.59.10.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "3078a3539d880f5cc54f3f2403775dedced0236ddb91522c1f365eff6878a671"
+    url = "https://github.com/JuliaBinaryWrappers/Cgl_jll.jl/releases/download/Cgl-v0.60.3+0/Cgl.v0.60.3.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[Cgl]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "08ab0260b62b070aefc94989c8839a5fa271c43d"
+git-tree-sha1 = "15516694a81df21071501be66517756744cf5169"
 os = "windows"
 
     [[Cgl.download]]
-    sha256 = "36289e5e124844c4d87a165c2e2ca57546cb9b7e91285147e820262542d8e628"
-    url = "https://github.com/JuliaBinaryWrappers/Cgl_jll.jl/releases/download/Cgl-v0.59.10+1/Cgl.v0.59.10.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "6e2e73b89699f768d765dd8454fcfd39c6509a01505e056d3e9bbba746205669"
+    url = "https://github.com/JuliaBinaryWrappers/Cgl_jll.jl/releases/download/Cgl-v0.60.3+0/Cgl.v0.60.3.x86_64-w64-mingw32-cxx11.tar.gz"
 [[Cgl]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "39a50485bafd8317c9aaf32f848d8abb34fa3772"
+git-tree-sha1 = "4a421254831284f3b6bc3a40cde032de4b813507"
 libc = "musl"
 os = "linux"
 
     [[Cgl.download]]
-    sha256 = "e1df963b483f39877e1e162900c7a7d43a9819edb27e4bca3b4127e90c5fef51"
-    url = "https://github.com/JuliaBinaryWrappers/Cgl_jll.jl/releases/download/Cgl-v0.59.10+1/Cgl.v0.59.10.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "00984b5bd4b9b27d9e38f68236bbe11a4d85fc69c6e6021393b8fcdf3ff28a9f"
+    url = "https://github.com/JuliaBinaryWrappers/Cgl_jll.jl/releases/download/Cgl-v0.60.3+0/Cgl.v0.60.3.i686-linux-musl-cxx11.tar.gz"
 [[Cgl]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "eb0ffadaceff625185e4d3527092bf1a61441497"
+git-tree-sha1 = "dec9cd6579b6c2d582ecba0d3267fc9e13765cf3"
 libc = "musl"
 os = "linux"
 
     [[Cgl.download]]
-    sha256 = "01e180ea99c5ebe5fc0cbba6cc647ec3c2b4056a44fcd5e66539d3911ab27a9c"
-    url = "https://github.com/JuliaBinaryWrappers/Cgl_jll.jl/releases/download/Cgl-v0.59.10+1/Cgl.v0.59.10.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "26de3c9beb4cc48fd27ca3d979b61f515182c5e7eff2104bc6a7751a9c0b700e"
+    url = "https://github.com/JuliaBinaryWrappers/Cgl_jll.jl/releases/download/Cgl-v0.60.3+0/Cgl.v0.60.3.x86_64-linux-musl-cxx11.tar.gz"
 [[Cgl]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ade362fdbdbed44905a510cdd6062f4139a2338a"
+git-tree-sha1 = "ba2ec7ba1e71c28191504048498a6f1e52dc2a3f"
 libc = "glibc"
 os = "linux"
 
     [[Cgl.download]]
-    sha256 = "73544c3d2def72a6c6fcb74fbbb0e6d14f32cbd5cf8e75429e3546ee5e67ab0c"
-    url = "https://github.com/JuliaBinaryWrappers/Cgl_jll.jl/releases/download/Cgl-v0.59.10+1/Cgl.v0.59.10.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "e2d6adb2d3de280a551f13f60dec855fa4d726afa3f075b15cd6e60a65007dca"
+    url = "https://github.com/JuliaBinaryWrappers/Cgl_jll.jl/releases/download/Cgl-v0.60.3+0/Cgl.v0.60.3.x86_64-linux-gnu-cxx03.tar.gz"
 [[Cgl]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c47b5d55bc2fe99e4f08282b3397d58fed5c1ade"
+git-tree-sha1 = "155cf0969a27ef8f9fc56f2c0a3e5351a5d7e889"
 libc = "glibc"
 os = "linux"
 
     [[Cgl.download]]
-    sha256 = "f4ed2c08c68632cbb209f6636fd212ee665cfd75f4a320ad01d4255ab255248a"
-    url = "https://github.com/JuliaBinaryWrappers/Cgl_jll.jl/releases/download/Cgl-v0.59.10+1/Cgl.v0.59.10.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "2793a3ba1a09c3660a7e21ffffe3b886d3c128beb666777ddb60311cd2715863"
+    url = "https://github.com/JuliaBinaryWrappers/Cgl_jll.jl/releases/download/Cgl-v0.60.3+0/Cgl.v0.60.3.i686-linux-gnu-cxx03.tar.gz"
 [[Cgl]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ab3ef01913c9385034afe7f2e4e2d4db1fdeae80"
+git-tree-sha1 = "730e9a0c813562f1bafc15190f79f560b44e5dc2"
 os = "macos"
 
     [[Cgl.download]]
-    sha256 = "6e85e4888ea779a945c1c8c22b523dc14e72026d8fd06f4993614da3860bbfbf"
-    url = "https://github.com/JuliaBinaryWrappers/Cgl_jll.jl/releases/download/Cgl-v0.59.10+1/Cgl.v0.59.10.x86_64-apple-darwin14-cxx11.tar.gz"
+    sha256 = "a8136512e05213ae59dd5b4052c2b368d2850f3806fb9cee5d0baf60afdfac59"
+    url = "https://github.com/JuliaBinaryWrappers/Cgl_jll.jl/releases/download/Cgl-v0.60.3+0/Cgl.v0.60.3.x86_64-apple-darwin14-cxx11.tar.gz"
 [[Cgl]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c194bd8afd23f01423cf487b0e4e25c838021e93"
+git-tree-sha1 = "850df721a8c381bc54ea7a9598d4f671f2f7b02f"
 libc = "glibc"
 os = "linux"
 
     [[Cgl.download]]
-    sha256 = "bc0cb9f4c4cf65d1cef71985e81e519ae37cd793abecf49e7aeb1ec2a0308dba"
-    url = "https://github.com/JuliaBinaryWrappers/Cgl_jll.jl/releases/download/Cgl-v0.59.10+1/Cgl.v0.59.10.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "1904bafa780090e6623421ad8b16450f10dc3034e0ed9f4e3b5bc7444823b930"
+    url = "https://github.com/JuliaBinaryWrappers/Cgl_jll.jl/releases/download/Cgl-v0.60.3+0/Cgl.v0.60.3.i686-linux-gnu-cxx11.tar.gz"
 [[Cgl]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a9c1feb0cb14420256bf49bdf7d5998c80be9767"
+git-tree-sha1 = "a74317384b979b99e950f652fefcd08368728bcd"
 os = "windows"
 
     [[Cgl.download]]
-    sha256 = "e6d6360c432394303c86ac915d873afd7ef1dac01732270625df96cb9b600b0e"
-    url = "https://github.com/JuliaBinaryWrappers/Cgl_jll.jl/releases/download/Cgl-v0.59.10+1/Cgl.v0.59.10.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "ae980991acf1fdb180fe0867caf14736b59d60726a58d0a423a359c764439867"
+    url = "https://github.com/JuliaBinaryWrappers/Cgl_jll.jl/releases/download/Cgl-v0.60.3+0/Cgl.v0.60.3.x86_64-w64-mingw32-cxx03.tar.gz"
 [[Cgl]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2c0c7f82fc9c57612698bb646c8551e274f50d41"
+git-tree-sha1 = "0bd8acdfb606874b04e55aed061f275200eda930"
 libc = "glibc"
 os = "linux"
 
     [[Cgl.download]]
-    sha256 = "76e11f6ef7ffb776a7e4d1eeb74d99c892de3bb79f5838ff4de13b3c1bc07087"
-    url = "https://github.com/JuliaBinaryWrappers/Cgl_jll.jl/releases/download/Cgl-v0.59.10+1/Cgl.v0.59.10.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "e4493756e84297fb0e4f46a08be7d121ccd3467479c57d4437f5cdd4f6f2e72b"
+    url = "https://github.com/JuliaBinaryWrappers/Cgl_jll.jl/releases/download/Cgl-v0.60.3+0/Cgl.v0.60.3.x86_64-linux-gnu-cxx11.tar.gz"
 [[Cgl]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "49457dde850a1af72dafdb7f9441a0c77c22fe99"
+git-tree-sha1 = "72041997f0644105ee8a91b219a2bf5be7c39eb2"
 libc = "glibc"
 os = "linux"
 
     [[Cgl.download]]
-    sha256 = "90612d9279143b7a74d9424881d9f09109af971159c5e5e0eddc15430bdc85f6"
-    url = "https://github.com/JuliaBinaryWrappers/Cgl_jll.jl/releases/download/Cgl-v0.59.10+1/Cgl.v0.59.10.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "1326e795bc842c834c3f92c61b8950a5778a83cd0820e3c4b0f176ed4702d736"
+    url = "https://github.com/JuliaBinaryWrappers/Cgl_jll.jl/releases/download/Cgl-v0.60.3+0/Cgl.v0.60.3.aarch64-linux-gnu-cxx11.tar.gz"
 [[Cgl]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "136eee69ef4230eb6e8d09bea9932db6cc449c2e"
+git-tree-sha1 = "bff7dd578190e75b53d7a91d45def21fd1c31c6d"
 libc = "musl"
 os = "linux"
 
     [[Cgl.download]]
-    sha256 = "aec1e38ca244012e4305fea2cd99e7ff7435584d7dd1d20861f435688b3c1a03"
-    url = "https://github.com/JuliaBinaryWrappers/Cgl_jll.jl/releases/download/Cgl-v0.59.10+1/Cgl.v0.59.10.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "76765fc56c73d90fddedb2620e58523ea88f9302284b6c567ab30b82de852b05"
+    url = "https://github.com/JuliaBinaryWrappers/Cgl_jll.jl/releases/download/Cgl-v0.60.3+0/Cgl.v0.60.3.x86_64-linux-musl-cxx03.tar.gz"
 [[Cgl]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f37bfb16231fd5cd215733d9cb11b76da655216a"
+git-tree-sha1 = "fa21ca8a4bba3ee4c39d6bbae63e7a17a82743e4"
 os = "macos"
 
     [[Cgl.download]]
-    sha256 = "30d04f2ae019bb01f63583c101ff1d64b5458f6c7ac95682ba5b2b8689c34777"
-    url = "https://github.com/JuliaBinaryWrappers/Cgl_jll.jl/releases/download/Cgl-v0.59.10+1/Cgl.v0.59.10.x86_64-apple-darwin14-cxx03.tar.gz"
+    sha256 = "1729eae81aa7c5492f1f524357f4b19d9e99399324cf6410d51211dcff48e8c4"
+    url = "https://github.com/JuliaBinaryWrappers/Cgl_jll.jl/releases/download/Cgl-v0.60.3+0/Cgl.v0.60.3.x86_64-apple-darwin14-cxx03.tar.gz"
 [[Cgl]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "428149dc62b2bc69401ee817a20d675f3f4945e2"
+git-tree-sha1 = "ee5eb1d0f46ef5e77e33be91445e9f7ed1b60c54"
 os = "windows"
 
     [[Cgl.download]]
-    sha256 = "01e21f7245601103bbfe81310ee4c2cbe72e73139ddeabfadb8b763906b46e71"
-    url = "https://github.com/JuliaBinaryWrappers/Cgl_jll.jl/releases/download/Cgl-v0.59.10+1/Cgl.v0.59.10.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "4bcda18f0647475269c1ab0b7fdc28b2567f5ac95f768f4ac41f65842e5ac00c"
+    url = "https://github.com/JuliaBinaryWrappers/Cgl_jll.jl/releases/download/Cgl-v0.60.3+0/Cgl.v0.60.3.i686-w64-mingw32-cxx03.tar.gz"
 [[Cgl]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1910cc9d5b7ef72aa67316540ca808a0f0d301c8"
+git-tree-sha1 = "aab046819beff63861dc821ea712535bfe76b974"
 os = "windows"
 
     [[Cgl.download]]
-    sha256 = "c2325d5dc893675cbbf4d937efe1ab258ce40954dcc1732ba145a69ca6830338"
-    url = "https://github.com/JuliaBinaryWrappers/Cgl_jll.jl/releases/download/Cgl-v0.59.10+1/Cgl.v0.59.10.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "19205e33af9f250719d87de6f18a59842ef0107b3b78b10bd150b2b4f89e96ba"
+    url = "https://github.com/JuliaBinaryWrappers/Cgl_jll.jl/releases/download/Cgl-v0.60.3+0/Cgl.v0.60.3.i686-w64-mingw32-cxx11.tar.gz"
 [[Cgl]]
 arch = "armv7l"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7344e83247fa26a4095048b9511b7e6ebb2f343d"
+git-tree-sha1 = "50514b1f98ddf30ee568ed25831439f975b5a387"
 libc = "musl"
 os = "linux"
 
     [[Cgl.download]]
-    sha256 = "0e822e18da6bc1a796b399eb7a9267e97ecbff0504b533a437e065e836d42cd8"
-    url = "https://github.com/JuliaBinaryWrappers/Cgl_jll.jl/releases/download/Cgl-v0.59.10+1/Cgl.v0.59.10.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "9d5bd4418c2d589ea3ca4e1edc7916e070d50ddcf34b6acf94a9074a4b3a7ba4"
+    url = "https://github.com/JuliaBinaryWrappers/Cgl_jll.jl/releases/download/Cgl-v0.60.3+0/Cgl.v0.60.3.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[Cgl]]
 arch = "armv7l"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e7c397068aba5e647d81b21ce644a3348ba260c3"
+git-tree-sha1 = "3f941b53448faaf2eec779fcd835c5cb2231ef30"
 libc = "glibc"
 os = "linux"
 
     [[Cgl.download]]
-    sha256 = "4563e8c0eee0a17e326b5f8992f8bacaf1184aefcf1a567e84b714c427d72d14"
-    url = "https://github.com/JuliaBinaryWrappers/Cgl_jll.jl/releases/download/Cgl-v0.59.10+1/Cgl.v0.59.10.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "3484d047257a03d6992dbc8a4f8dcf12408bb53ca0ab8d3d40396296c38e91f2"
+    url = "https://github.com/JuliaBinaryWrappers/Cgl_jll.jl/releases/download/Cgl-v0.60.3+0/Cgl.v0.60.3.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[Cgl]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b5e04d1dcee152976b429e4c2568d004ba39b8dc"
+git-tree-sha1 = "28881d9eeceaad9ffe3076146e081cac4bd0cfbd"
 libc = "glibc"
 os = "linux"
 
     [[Cgl.download]]
-    sha256 = "50813e57180c24f5bb2cae33788284e49d29ebb77c1964e20277c2833154f4b3"
-    url = "https://github.com/JuliaBinaryWrappers/Cgl_jll.jl/releases/download/Cgl-v0.59.10+1/Cgl.v0.59.10.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "c155639e8ac565e4d649eb1ddd8b15ef0618c07802c93d354f085a9a5848bb93"
+    url = "https://github.com/JuliaBinaryWrappers/Cgl_jll.jl/releases/download/Cgl-v0.60.3+0/Cgl.v0.60.3.aarch64-linux-gnu-cxx03.tar.gz"
 [[Cgl]]
 arch = "armv7l"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8f9045edf360306f039e164f33c2c78522b96061"
+git-tree-sha1 = "142ef5296bf348d5ae062c28806cc7cf6a2f1afb"
 libc = "glibc"
 os = "linux"
 
     [[Cgl.download]]
-    sha256 = "04012996d56b7f19af315f2ada44fa588ed367a07e15a496c4fc2f1d71dd683e"
-    url = "https://github.com/JuliaBinaryWrappers/Cgl_jll.jl/releases/download/Cgl-v0.59.10+1/Cgl.v0.59.10.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "27aa991e70c2dfc7e35b7f18c793186ff58722cbbcab72a4075ef3902276c6c3"
+    url = "https://github.com/JuliaBinaryWrappers/Cgl_jll.jl/releases/download/Cgl-v0.60.3+0/Cgl.v0.60.3.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[Cgl]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f5f39624c3f7ec4b406ddc1a0b379f3bcc3e85b9"
+git-tree-sha1 = "2930b093b1e8e33c3ca1ee383620af4767996ec2"
 libc = "musl"
 os = "linux"
 
     [[Cgl.download]]
-    sha256 = "7e9aa55ca1473054b9466f880def8ca0b3b2944b2484419fa956f28b82d0a4a3"
-    url = "https://github.com/JuliaBinaryWrappers/Cgl_jll.jl/releases/download/Cgl-v0.59.10+1/Cgl.v0.59.10.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "2708e0a56c998505a1a28e34a7cdcc99161027bdf9e40aed62ef151e2aeaa6fe"
+    url = "https://github.com/JuliaBinaryWrappers/Cgl_jll.jl/releases/download/Cgl-v0.60.3+0/Cgl.v0.60.3.i686-linux-musl-cxx03.tar.gz"
