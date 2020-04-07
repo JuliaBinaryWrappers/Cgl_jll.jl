@@ -1,6 +1,6 @@
 name = "Cgl_jll"
 uuid = "3830e938-1dd0-5f3e-8b8e-b3ee43226782"
-version = "0.60.3+1"
+version = "0.60.2+0"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
@@ -10,4 +10,4 @@ Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
 
 [compat]
 julia = "1.0"
-Clp_jll = "=1.17.5"
+Clp_jll = "=1.17.3"

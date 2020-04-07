@@ -9,7 +9,7 @@ LIBPATH = ""
 LIBPATH_env = "DYLD_FALLBACK_LIBRARY_PATH"
 
 # Relative path to `libCgl`
-const libCgl_splitpath = ["lib", "libCgl.1.10.3.dylib"]
+const libCgl_splitpath = ["lib", "libCgl.1.10.2.dylib"]
 
 # This will be filled out by __init__() for all products, as it must be done at runtime
 libCgl_path = ""
