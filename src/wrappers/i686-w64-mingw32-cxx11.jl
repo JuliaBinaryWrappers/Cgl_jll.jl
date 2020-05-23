@@ -7,6 +7,7 @@ using CompilerSupportLibraries_jll
 PATH = ""
 LIBPATH = ""
 LIBPATH_env = "PATH"
+LIBPATH_default = ""
 
 # Relative path to `libCgl`
 const libCgl_splitpath = ["bin", "libCgl-1.dll"]
