@@ -2,11 +2,13 @@
 export libCgl
 
 using Clp_jll
+using Osi_jll
+using CoinUtils_jll
 using CompilerSupportLibraries_jll
 JLLWrappers.@generate_wrapper_header("Cgl")
 JLLWrappers.@declare_library_product(libCgl, "@rpath/libCgl.1.dylib")
 function __init__()
-    JLLWrappers.@generate_init_header(Clp_jll, CompilerSupportLibraries_jll)
+    JLLWrappers.@generate_init_header(Clp_jll, Osi_jll, CoinUtils_jll, CompilerSupportLibraries_jll)
     JLLWrappers.@init_library_product(
         libCgl,
         "lib/libCgl.1.10.2.dylib",
