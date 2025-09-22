@@ -11,7 +11,7 @@ function __init__()
     JLLWrappers.@generate_init_header(Clp_jll, Osi_jll, CoinUtils_jll, CompilerSupportLibraries_jll)
     JLLWrappers.@init_library_product(
         libCgl,
-        "lib/libCgl.1.10.6.dylib",
+        "lib/libCgl.1.10.9.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
